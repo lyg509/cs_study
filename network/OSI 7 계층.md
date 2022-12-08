@@ -21,8 +21,8 @@ OSI 7 계층은 **물리 계층, 데이터 링크 계층, 네트워크 계층, �
 
 ### OSI 7 계층의 구조
 
-<img src="img/osi-7-layer.png" alt="osi-7-layer" width="50%" />
-<img src="img/osi-and-tcp-ip.png" alt="osi-7-layer" width="50%" />
+<img src="../img/osi-7-layer.png" alt="osi-7-layer" width="50%" />
+<img src="../img/osi-and-tcp-ip.png" alt="osi-7-layer" width="50%" />
 
 - **[7] 응용 계층 (Application Layer) : 데이터 단위 message | 프로토콜 HTTP, SMTP, FTP, SIP 등**
   - 통신의 최종 목적지로, 응용 프로그램들이 통신으로 활용하는 계층이다.
