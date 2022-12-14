@@ -24,7 +24,7 @@ TCP의 **3-way-handshake**란 TCP 통신을 시작하기 전에 논리적인 경
 
 ### TCP 4-way-handshake : Connection Termination
 
-<img src="../img/4-way-handshake.png" alt="4-way-handshake" width="50%" />
+<img src="../img/4-way-handshake.png" alt="4-way-handshake" width="80%" />
 
 #### A 프로세스(Client)가 B 프로세스(Server)에 연결 해제를 요청
 
